@@ -16,3 +16,9 @@ h1 {
 ol {
   list-style: none;
 }
+
+footer {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+}

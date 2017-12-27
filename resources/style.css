@@ -4,8 +4,7 @@ body {
 }
 
 header {
-  background-image:url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
-  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 h1 {
@@ -13,12 +12,13 @@ h1 {
   font-weight: bold;
 }
 
-ol {
-  list-style: none;
+h1, a {
+  color: white;
 }
 
 footer {
   text-align: left;
   font-size: 11px;
   background-color: dimgray;
+  color: white;
 }
